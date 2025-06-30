@@ -3,4 +3,5 @@
 <h4>Executando o projeto</h4>
 <p>Tudo que precisa pra executar esse projeto, e baixar esse repositorio, e pelo terminal dentro da pasta do o comando</p>
 <strong>java -jar cofrinhoJava.jar</strong>
-<img src='file.png'>
+<img src='cofre.png'>
+<img src='terminal.png'>
